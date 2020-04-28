@@ -96,6 +96,7 @@ body{
 }
 .list-social-midia{
 	display:flex;
+	list-style: none;
 }
 
 .form{
