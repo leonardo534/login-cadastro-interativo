@@ -119,7 +119,13 @@ body{
 	align-items: center;
 }
 
-.list-social-midia{
+.link-social-media:hover .item-social-media{
+	background-color: #58af9b;
+	color: #fff;
+	border-color: #58af9b;
+}
+
+.list-social-media{
 	display:flex;
 	list-style: none;
 }
