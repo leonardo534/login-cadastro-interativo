@@ -98,6 +98,18 @@ body{
 	display:flex;
 	list-style: none;
 }
+.item-social-media{
+	border: 1px solid;
+	border-radius: 50%;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+}
+.item-social-media a{
+	color: #95a5a6;
+}
+	
 
 .form{
 	display: flex;
