@@ -1,3 +1,6 @@
+/* CREATED BY LEONARDO SILVA DE LIMA 
+GITHUB: https://github.com/leonardo534 */
+
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&display=swap');
 
 *{
@@ -42,7 +45,6 @@ body{
 	position: relative;
 	display: flex;
 }
-
 
 .title{
 	color: #fff;
@@ -171,7 +173,6 @@ body{
 	color: #7f8c8d;
 	padding: 0 5px;
 }
-
 
 /*SEGUNDO CONTEUDO*/
 
